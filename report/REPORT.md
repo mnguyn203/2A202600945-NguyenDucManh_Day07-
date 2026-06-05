@@ -1,6 +1,6 @@
 # Báo Cáo Lab 7: Embedding & Vector Store
 
-**Họ tên:** Nguyễn Đức Mạnh (Sửa lại nếu không chính xác)
+**Họ tên:** Nguyễn Đức Mạnh 
 **MSSV:** 2A202600945
 **Nhóm:** F2
 **Ngày:** 05/06/2026
